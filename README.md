@@ -1,6 +1,3 @@
-# agile-planning
-This repository contains an example of how to make a well structured kanban board with well defined user stories.
-I created a template to follow when adding new user stories to allow for more defined tasks and what each tasks value is to a specific person.
-I defined each collum on the board aswell to describe its purpuse in order to better organise the user stories so that the project is ready for development
-in a structured manner.
-The issues in my kanban board are for an imaginary counter service. 
+# Agile-Planning Example
+This repository demonstrates how to create a well-structured Kanban board using GitHub Projects, with clearly defined user stories ready for development in an Agile setting.
+Each user story highlights the value of a task to a specific role (e.g., user, system administrator, service provider) and includes acceptance criteria written in the Gherkin format, (Given / When / Then) to ensure clarity and testability.
